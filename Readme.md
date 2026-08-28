@@ -5,7 +5,7 @@
 ### Problem Statement
 # The used-car market contains vehicles with different prices, fuel types, transmission types, and usage levels, making it difficult to know which factors most affect a car's selling price. This notebook analyzes historical Car Dekho data to uncover pricing trends and patterns that support better buying, selling, and pricing decisions.
 
-## 15. Conclusion
+## Conclusion
 
 # - **Present price** is the strongest driver of a used car's selling price (correlation ≈ 0.88).
 # - **Fuel type** and **transmission** matter: diesel and automatic cars resell for noticeably more than petrol/manual cars.
